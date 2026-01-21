@@ -10,8 +10,18 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
+<!-- Portfolio Link -->
+<p align="center">
+  <a href="https://njrportfolio.netlify.app/" target="_blank">
+    <strong>🌐 Visit My Portfolio</strong>
+  </a>
+</p>
+
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://njrportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-njrportfolio.netlify.app-0F172A?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/nitishjohnrawat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nitishjohnrawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -32,6 +42,7 @@
 - 🤝 Interested in **GPUs & deep learning systems**
 - 💬 Ask me about **AI, Full Stack, Robotics, Personal Projects**
 - 📫 Reach me: **nitishjohnrawat@gmail.com**
+- 🌐 Portfolio: **https://njrportfolio.netlify.app/**
 
 ---
 
@@ -90,6 +101,9 @@
 
 ### 🤝 Let’s Connect
 <p align="center">
+  <a href="https://njrportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-njrportfolio.netlify.app-0F172A?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/nitishjohnrawat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nitishjohnrawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
