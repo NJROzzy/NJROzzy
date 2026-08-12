@@ -98,8 +98,8 @@ Real-time autonomous voice agent using GPT-4o and Whisper ASR with Twilio for en
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=njrozzy&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=njrozzy&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=NJROzzy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app?user=NJROzzy&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
